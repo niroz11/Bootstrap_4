@@ -1,0 +1,28 @@
+.carousel-item{
+	height:100vh;
+	min-height: 300px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.carousel-control-next-icon{
+	height:60px;
+	width:60px;
+
+}
+
+.carousel-control-prev-icon{
+	height:60px;
+	width:60px;
+}
+
+.carousel-indicators li {
+	width: 75px;
+    height: 10px;
+}
+
+.nav-link{
+	color: white;
+	font-size: 2em;
+}
